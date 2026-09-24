@@ -84,6 +84,16 @@ During the go live phase the software didn't not conform to the most basic requi
 
 
 
+\## Researching a Software Failure ##
+
+
+
+Apple IOS 6 Maps
+
+
+
+In 2012, Apple released their own native mapping application to replace google maps. The app suffered from widespread launch bugs, including warped landmarks, missing towns, mislocated businesses and flattened or distorted 3D terrain. Due to intense user frustration and media backlash know as 'Mapsgate' Apple CEO Tim Cook issued a public apology later the same month of launch, recommending users to temporarily rely on other mapping services.
+
 
 
 
