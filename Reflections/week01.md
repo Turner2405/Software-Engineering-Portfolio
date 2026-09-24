@@ -32,7 +32,55 @@ One example of software successes would be Instagram. Instagram was created in 2
 
 
 
+\## The Four Process Activities: Retail Sync Case Study ##
 
+
+
+\-Kick Off-
+
+
+
+MISSING : SPECIFICATION
+
+During the kick off stage where specification is crucial the IT director held a single one-hour meeting and 'roughly' described the requirements not documenting anything that was need or making a clear version of the requirements of the system. The Specification was completely missing.
+
+
+
+\-Development-
+
+
+
+MISSING : VALIDATION
+
+During development the team members had no coding standards created before hand this would lead to clashes in the programming process as well they barely communicated and with no coding review process the validation stage is completely left out.
+
+
+
+\-A Change of Plan-
+
+
+
+MISSING : SPECIFICATION
+
+During the change of plan phase once again the fact that no one has written down the requirements of the system has created a bigger problem. Adding requirements mid way through the development without having a full brief written up is disastrous.
+
+
+
+\-Testing-
+
+
+
+MISSING : EVOLUTION + VALIDATION
+
+During the testing phase the team independently fixed bugs they came across, they didn't perform any actual testing first before declaring it tested. As well they didn't get the customers to test the system at all so that leaves out validation and they didn't change the system to actually fit the second warehouse which leaves out evolution.
+
+
+
+\-Go Live-
+
+MISSING : EVOLUTION
+
+During the go live phase the software didn't not conform to the most basic requirement of the users in the warehouse due to the lack of consultation from them during the specification phase.
 
 
 
