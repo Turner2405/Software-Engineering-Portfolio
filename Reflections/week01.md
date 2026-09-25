@@ -92,15 +92,7 @@ Apple IOS 6 Maps
 
 
 
-In 2012, Apple released their own native mapping application to replace google maps. The app suffered from widespread launch bugs, including warped landmarks, missing towns, mislocated businesses and flattened or distorted 3D terrain. Due to intense user frustration and media backlash know as 'Mapsgate' Apple CEO Tim Cook issued a public apology later the same month of launch, recommending users to temporarily rely on other mapping services.
-
-
-
-
-
-
-
-
+In 2012, Apple released their own native mapping application to replace google maps. The app suffered from widespread launch bugs, including warped landmarks, missing towns, mislocated businesses and flattened or distorted 3D terrain. The heavily marketed "Flyover" feature suffered from extreme rendering bugs. Satellite textures melted over the terrain creating apocalyptic visuals where the iconic structures like the Brooklyn Bridge and the Hoover Dam appeared collapsed, warped or completely flattened into rivers. Apple also did not have there own mapping data. Instead, they cobbled together databases from third-party vendors like TomTom. The data was poorly merged, lacked crowd sourced corrections and Apple bypassed the extensive public beta testing needed to catch these errors before launch. Due to intense user frustration and media backlash know as 'Mapsgate' Apple CEO Tim Cook issued a public apology later the same month of launch, recommending users to temporarily rely on other mapping services.
 
 
 
