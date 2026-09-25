@@ -98,6 +98,16 @@ In 2012, Apple released their own native mapping application to replace google m
 
 
 
+\## Is there still a Software Crisis? ##
+
+
+
+During the Conferences in 1968/69 a few core ideas where introduced to help combat possible future crises. Early discussions around structured programming, reusable software components, the precursors to object orientated programming and the software development lifecycle were all had. These concepts are still used today.
+
+
+
+My view on whether there is a software crisis is that there isn't a 'crisis' per say but software is ever evolving and with that comes bumps and hiccups in the road. There are structures and techniques to building software which dramatically reduces the possibility of failure but they are still going to happen because software is still being figured out. The other side to look at is when a software failure causes the death of a human being, the 2019 Boeing crashes that killed 346 people is a big one. Many would call it a crisis in software, but if you look at it from a different perspective other things such as buildings, roads and vehicles that are created using set structures and techniques fail as well. The fact that something fails doesn't necessarily mean there's a software crisis. 
+
 
 
 
