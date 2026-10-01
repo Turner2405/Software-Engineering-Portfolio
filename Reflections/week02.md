@@ -40,3 +40,13 @@ Incremental Development would be best for the university community app. It will 
 
 
 
+Task 2 - Share and Challenge
+
+
+
+I shared my choices with 2 other classmates and they both had exactly the same choices and reasons. I believe we all chose the same as the main requirements for the system were worded well and the models that were selected fit very well into them.
+
+
+
+
+
