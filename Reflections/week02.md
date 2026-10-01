@@ -1,8 +1,8 @@
-\## Week 2 Reflection - Software Engineering ##
+**## Week 2 Reflection - Software Engineering ##**
 
 
 
-Task 1 - Model Selection Worksheet
+**Task 1 - Model Selection Worksheet**
 
 
 
@@ -40,13 +40,23 @@ Incremental Development would be best for the university community app. It will 
 
 
 
-Task 2 - Share and Challenge
+**Task 2 - Share and Challenge**
 
 
 
 I shared my choices with 2 other classmates and they both had exactly the same choices and reasons. I believe we all chose the same as the main requirements for the system were worded well and the models that were selected fit very well into them.
 
 
+
+
+
+
+
+**Task 3 - Portfolio Entry** 
+
+
+
+If I was to use a model on a project that was a high-risk software were failure and errors is not an option it would the Spiral Model. I really like this model and how risk driven it is, for software that is connected to peoples lives it has to be 'perfect' so a model where risk is managed early and continuously and not left until after the software is built is the best for it. It is great for large-scale software where weak designs/software is eliminated early through explicit risk analysis. The model allows for planning to be built into each loop, this keeps the project on track. Only downsides to the spiral model is that it is a very costly way of building a software but when it comes to high-risk, large-scale software projects cost usually isn't a issue. The spiral model does make the development more complicated but that's due to the nature of having risk-analysis in every loop/phase of the project.
 
 
 
