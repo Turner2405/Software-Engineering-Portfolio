@@ -6,12 +6,20 @@ Task 1 - Backlog, Sprint \& Kanban Simulation
 
 Question 2 + 3, 
 <img width="913" height="637" alt="image" src="https://github.com/user-attachments/assets/7b314a97-d077-46f1-8249-1eb321f181f0" />
-
-The sprint goal  was the 'As a player, I want to rate the pitch condition after playing, so that future players know what to expect' task. This task is a simple review function with a simple Ui depicting a out of 5 star rating selection and a commnet form this task could be done in a single day sprint. 
+Our Classification for out t-shirt sizing goes as follows:
+- Small | < 2 days
+- Medium | Between 2 to 7 days
+- Large | > 7 days
 
 4,
 <img width="989" height="680" alt="image" src="https://github.com/user-attachments/assets/0d096eaa-2864-4acd-93d9-cfec1d2063dc" />
 
-A flagged task was added during the 'In Review' section of the board, what was done was shown and what was the current block stopping it from being complete was shown.
+## Sprint Goal
+For our theoretical 2 week sprint, the task that we chose were:
+
+-  Th players ability to book a slot for a specific date and time
+-  The feature that allows the centre manager to see a scheudule for all bookings across all pitches.
+
+The reason we chose these two tasks was because these tasks were smaller tasks that could be completed and reviewed in a short amount of time and they are vital functions to the entire systems functionality.
 
 
