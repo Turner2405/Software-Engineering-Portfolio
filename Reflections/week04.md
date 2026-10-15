@@ -22,4 +22,7 @@ For our theoretical 2 week sprint, the task that we chose were:
 
 The reason we chose these two tasks was because these tasks were smaller tasks that could be completed and reviewed in a short amount of time and they are vital functions to the entire systems functionality.
 
+## Retrospective 
+Me and Jack Boyle collaborated on this section of the lab, We used a Jira project management board to complete the task. We delegated tasks of the deliverable, i entered all the tasks from the case study and set the priority rating for each task. Jack created a new column called 'T-Shirt Size (S/M/L)' which was used size the tasks based on the length of time it would take to complete them.
+
 
