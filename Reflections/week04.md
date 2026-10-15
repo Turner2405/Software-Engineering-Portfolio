@@ -33,8 +33,8 @@ Me and Jack Boyle collaborated on this section of the lab, We used a Jira projec
 - As a student i want to receive a notification when the lecture has cancelled or rescheduled a class.
 - As a student i want to be able to export my timetable to my mobile device. i want the timetable to be formatted appropriately to fit on my mobile device screen. 
 - As a lecutruer i want to be able to mark a specific class as cancelled or rescheduled
-- As a Admin i want to see what timetable slots are over capcity
-- As a student i was to be able to swap into an alternative labe slot when the assigned on clashes with another personal commitment.
+- As a Admin i want to see what timetable slots are over capcity, so that they can change it.
+- As a student i was to be able to swap into an alternative lab slot when the assigned class clashes with another personal commitment.
 
 # Acceptance Criteria
 As a student i want to receive a notification when the lecture has cancelled or rescheduled a class
@@ -50,3 +50,18 @@ As a student i want to be able to view my timetable and all the relevent details
 # It's done when:
 - The timetable show the weekly schedule of classes with all the revelant details present module name, room number, time slot, class type (practical or lecture) and the lecturer name 
 
+
+## Peer-Review of Stories
+First story, didn't specify time as timetable detail.
+
+Second story, didn't add goal to the stories
+
+Third story, No feedback 
+
+Fourth story, Lecturer was spelt wrong :(
+
+Fifth story, 
+
+Sixth story, more inclusion of benefits for some stories is neccessary to allow the read to understand the purposes of the stories.
+
+Good amount of detail in the first and the second acceptance criteria, all the stories mentioned are valuable and small enough to be testable and all the stories are independent and estimateable.
