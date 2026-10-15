@@ -26,3 +26,27 @@ The reason we chose these two tasks was because these tasks were smaller tasks t
 Me and Jack Boyle collaborated on this section of the lab, We used a Jira project management board to complete the task. We delegated tasks of the deliverable, i entered all the tasks from the case study and set the priority rating for each task. Jack created a new column called 'T-Shirt Size (S/M/L)' which was used size the tasks based on the length of time it would take to complete them.
 
 
+## Task 2 - Writing User Stories
+
+# User Stories
+- As a student i want to be able to view my timetable and all the relevent details such as room, module and lecture details for each class.
+- As a student i want to receive a notification when the lecture has cancelled or rescheduled a class.
+- As a student i want to be able to export my timetable to my mobile device. i want the timetable to be formatted appropriately to fit on my mobile device screen. 
+- As a lecutruer i want to be able to mark a specific class as cancelled or rescheduled
+- As a Admin i want to see what timetable slots are over capcity
+- As a student i was to be able to swap into an alternative labe slot when the assigned on clashes with another personal commitment.
+
+# Acceptance Criteria
+As a student i want to receive a notification when the lecture has cancelled or rescheduled a class
+
+# Its done when:
+- When a class is cancelled or rescheduled the email is sent to all the students registered for that class.
+- The email is sent the before or on the morning before the class is held this allows adequate time for the students to reschedule.
+- The email must detail the class that is affected, the time and any additional lecturer notes that were added to clarify the reason for the rescheduling.
+
+# Acceptance Criteria
+As a student i want to be able to view my timetable and all the relevent details such as room, module and lecture details for each class.
+
+# It's done when:
+- The timetable show the weekly schedule of classes with all the revelant details present module name, room number, time slot, class type (practical or lecture) and the lecturer name 
+
