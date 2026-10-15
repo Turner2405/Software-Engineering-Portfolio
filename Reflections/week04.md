@@ -17,7 +17,7 @@ Our Classification for out t-shirt sizing goes as follows:
 ## Sprint Goal
 For our theoretical 2 week sprint, the task that we chose were:
 
--  Th players ability to book a slot for a specific date and time
+-  The players ability to book a slot for a specific date and time
 -  The feature that allows the centre manager to see a scheudule for all bookings across all pitches.
 
 The reason we chose these two tasks was because these tasks were smaller tasks that could be completed and reviewed in a short amount of time and they are vital functions to the entire systems functionality.
