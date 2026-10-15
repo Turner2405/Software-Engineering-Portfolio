@@ -65,3 +65,8 @@ Fifth story,
 Sixth story, more inclusion of benefits for some stories is neccessary to allow the read to understand the purposes of the stories.
 
 Good amount of detail in the first and the second acceptance criteria, all the stories mentioned are valuable and small enough to be testable and all the stories are independent and estimateable.
+
+
+## Task 3 : XP Research
+Integrating test-driven developmnet into a fast-paced Scrum or Kanban workflow ensures sustainablilty by preventing technical debt from accumulating as the team moves quickly. Writing tests first creates a safety net that catches regression bugs immediately, eliminating the time-consuming cycles of manual testing and firefighting that usually slow down high-speed teams. This automated validation keeps the workflow clean, ensuring that a rapid pace of delivery does not break existing functionality or lead to costly rewrites
+
